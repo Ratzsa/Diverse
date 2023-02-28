@@ -7,7 +7,7 @@ void fileList()
     int counter = 0;
     DIR *directory;
     struct dirent *dir;
-    directory = opendir("C:\\Templist\\.");
+    directory = opendir("C:\\Templist\\");
     if (directory)
     {
         while ((dir = readdir(directory)) != NULL)
