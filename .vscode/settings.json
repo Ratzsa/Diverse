@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\YA\\Labbar\\Diverse",
+            "binaryPath": "c:\\YA\\Labbar\\Diverse\\diverse.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "dirent.h": "c"
+    }
+}
